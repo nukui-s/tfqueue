@@ -43,6 +43,7 @@ quit()
 enq.run()
 
 
+
 print(queue.size().eval())
 print(C)
 print(sess.run(v))
